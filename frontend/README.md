@@ -7,7 +7,7 @@ Features JWT authentication, click analytics, QR code generation, custom aliases
 
 ## Demo Video
 
-🎬 **[Click here to watch the full demo on Loom/YouTube](https://your-loom-or-youtube-link-here)**
+🎬 **[Click here to watch the full demo on Loom/YouTube](https://www.loom.com/share/afe016e4963442c58a052aa0acc24e48)**
 
 ---
 
