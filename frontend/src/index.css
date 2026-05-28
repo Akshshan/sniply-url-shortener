@@ -1,0 +1,10 @@
+/* ============================================================
+   frontend/src/index.css
+   Tailwind CSS directives — these three lines are required.
+   Vite + Tailwind will replace them with the generated CSS
+   at build time. Do NOT remove them.
+   ============================================================ */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
