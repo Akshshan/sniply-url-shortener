@@ -30,16 +30,7 @@ const PORT = process.env.PORT || 5000;
 // ============================================================
 
 // Allow requests from the React frontend (CORS)
-app.use(
-  cors({
-    origin: [
-      "http://localhost:5173",
-      "https://sniply-url-shortener.vercel.app",
-      process.env.FRONTEND_URL,
-    ],
-    credentials: true,
-  })
-);
+app.use(cors({ origin: "*" }));
 
 // Parse incoming JSON request bodies
 app.use(express.json());
